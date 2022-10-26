@@ -1,6 +1,6 @@
 import React from 'react';
 
-// import components
+  // import components
 import Hero from './components/Hero';
 import Header from './components/Header';
 import About from './components/About';
