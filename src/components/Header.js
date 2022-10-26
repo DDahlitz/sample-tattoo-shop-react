@@ -13,13 +13,13 @@ import { TiThMenuOutline } from 'react-icons/ti'
 
 
 const Header = () => {
-    //destructured header data
-  const {logo} = headerData
+  
+  const { logo } = headerData
     // header state
   const [isActive, setIsActive] = useState(false);
     // nav mobile state
   const [navMobile, setNavMobile] = useState(false);
-    //scrole event
+    //scroll event
   useEffect(() => {
     window.addEventListener('scroll', ()=> {
       window.scrollY > 50? setIsActive(true) : setIsActive(false);
