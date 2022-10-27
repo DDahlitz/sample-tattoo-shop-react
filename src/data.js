@@ -47,7 +47,7 @@ export const socialData = [
 export const heroData = {
   title: 'Good ol Greggo',
   subtitle:
-    'Tattoos have their own unique power and magic. They not only beautify the body but also the psyche.',
+    'Tattoos are art where ink goes under the skin. I am the best at putting ink under the skin.',
   btnText: 'read more',
   btnIcon: <IoMdArrowForward />,
 };
@@ -55,7 +55,7 @@ export const heroData = {
 export const aboutData = {
   title: 'My Story:',
   subtitle1:
-    'In velit arcu posuere integer. Dolor sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus hac vel ante sit sed scelerisque praesent duis volutpat laoreet.',
+    'I have no idea what to say bro, you never told me your story. Im gonna throw up some latin. In velit arcu posuere integer. Dolor sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus hac vel ante sit sed scelerisque praesent duis volutpat laoreet.',
   subtitle2:
     'Nisl, sit molestie commodo congue. Etiam lectus risus in amet. Commodo molestie fames etiam aenean sed. Pellentesque et venenatis amet, tellus hac vel adipiscing sit. Placerat vitae nisl viverra faucibus tincidunt habitasse amet. Nunc, velit nunc, scelerisque imperdiet nunc.',
   btnText: 'Know more',
@@ -120,7 +120,7 @@ export const galleryData = {
 
 export const interviewData = {
   title:
-    '“Consider what you desire. Your tattoo artist will never tell you what tattoo to have.”',
+    '“Stop crying. Its a small needle not your fathers approval”',
   btnText: 'Watch it now',
   btnIcon: <FaPlay />,
 };
@@ -129,14 +129,14 @@ export const testimonialData = [
   {
     quoteImg: QuoteImg,
     message:
-      "The entire team is extremely kind and friendly. They're fantastic. They're great at what they do! And it's unique.They will properly consult with you.",
+      "He did the tattoos real good.",
     name: 'Jack Geoffrey',
-    occupation: 'Tattoo Artist',
+    occupation: 'Client',
   },
   {
     quoteImg: QuoteImg,
     message:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam culpa asperiores officia natus dignissimos autem possimus molestias aperiam?',
+      'Work came out clean, straight lines, good work. I can see why hes an award winning artist',
     name: 'Douglas Hane',
     occupation: 'Tattoo Artist',
   },
@@ -146,38 +146,20 @@ export const contactData = {
   title: 'Get in touch with me:',
   info: [
     {
-      title: 'LA office',
+      title: 'Somewhere in Missouri',
       subtitle:
-        'In velit arcu posuere integer sit amet, consectetur nun adipiscing elit. Duis porttitor massa tellus',
+        'I have no idea which shop you work at, im gonna need the details',
       address: {
         icon: <FaMapMarkerAlt />,
-        name: '784 Norman Street, Los Angeles',
+        name: 'Bumfuck Missouri i have no idea',
       },
       phone: {
         icon: <FaPhoneAlt />,
-        number: '+49 93 30493943',
+        number: '(555)555-5555',
       },
       email: {
         icon: <FaEnvelope />,
-        address: 'contact@yourcompany.com',
-      },
-      link: 'Get location',
-    },
-    {
-      title: 'NYC office',
-      subtitle:
-        'Sit amet, consectetur nun in velit arcu posuere integer. Adipiscing elit duis porttitor massa tellus',
-      address: {
-        icon: <FaMapMarkerAlt />,
-        name: '1630 Elm Drive, New York City',
-      },
-      phone: {
-        icon: <FaPhoneAlt />,
-        number: '+49 34 36573355',
-      },
-      email: {
-        icon: <FaEnvelope />,
-        address: 'contact@yourcompany.com',
+        address: 'do-you-have-a-work-email@yourcompany.com',
       },
       link: 'Get location',
     },

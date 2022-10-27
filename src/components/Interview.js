@@ -27,7 +27,7 @@ const Interview = () => {
           <div className = 'flex flex-col items-start max-w-[880px]'>
               {/* title */}
             <motion.h3 variants = { fadeIn('down') }
-              className = 'text-white text-[40px] lg:text-[60px] leading-[1.1] font-tertiary -tracking-[1.5px] capitalize'>
+              className = 'text-white text-[40px] lg:text-[60px] leading-[1.1] font-tertiary -tracking-[1.5px] capitalize b-dark'>
               { title }
             </motion.h3>
             <motion.div variants = { fadeIn('down') }>

@@ -33,7 +33,7 @@ const Hero = () => {
             className = 'h1'>{ title }</motion.h1>
           <motion.p 
             variants = { fadeIn('down') } 
-            className = 'mb-8 lg:mb-16 max-w-lg leading-relaxed'>
+            className = 'mb-8 lg:mb-16 max-w-lg leading-relaxed b-dark'>
               { subtitle }
           </motion.p>
               {/* btn */}
