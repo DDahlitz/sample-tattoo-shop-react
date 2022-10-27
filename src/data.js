@@ -179,15 +179,15 @@ export const footerData = {
       'Sit amet, consectetur nun in velit arcu posuere integer. Adipiscing elit duis porttitor massa tellus',
     address: {
       icon: <FaMapMarkerAlt />,
-      name: '1630 Elm Drive, New York City',
+      name: 'Bumfuck Missouri',
     },
     phone: {
       icon: <FaPhoneAlt />,
-      number: '+49 34 36573355',
+      number: '(555)555-5555',
     },
     email: {
       icon: <FaEnvelope />,
-      address: 'contact@yourcompany.com',
+      address: 'do-you-have-a-work-email@yourcompany.com',
     },
   },
   links: {
