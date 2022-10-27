@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 //nav data
 import { navData } from '../data'
@@ -18,6 +18,6 @@ const Nav = () => {
       </ul>
     </nav>
   )
-};
+}
 
 export default Nav;

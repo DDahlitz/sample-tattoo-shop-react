@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
   //import nav data
 import { navData } from '../data'
@@ -22,7 +22,7 @@ const NavMobile = () => {
     <div className = 'text-2xl'>
       < Socials />
     </div>
-    </div>;
-};
+    </div>
+}
 
 export default NavMobile;

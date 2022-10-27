@@ -1,10 +1,8 @@
-import React from 'react';
+import React from 'react'
   // import hero data
 import { heroData } from '../data'
-
   // import motion
 import { motion } from 'framer-motion'
-
   // import fadeIn
 import { fadeIn } from '../variants'
 
@@ -50,6 +48,6 @@ const Hero = () => {
       </motion.div>
     </section>
   )
-};
+}
 
 export default Hero;

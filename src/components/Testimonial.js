@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
   //testimonial data
 import { testimonialData } from '../data'
@@ -12,7 +12,6 @@ import 'swiper/css'
 import { motion } from 'framer-motion'
   //fadeIn
 import { fadeIn } from '../variants'
-
 
 const Testimonial = () => {
   return (
@@ -53,6 +52,6 @@ const Testimonial = () => {
       </div>
     </motion.section>
   )
-};
+}
 
 export default Testimonial;

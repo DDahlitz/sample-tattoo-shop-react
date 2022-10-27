@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react'
 
   // useInView hook
 import { useInView } from 'react-intersection-observer'
